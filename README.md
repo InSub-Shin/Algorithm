@@ -1,2 +1,3 @@
 # Algorithm
-해결한 알고리즘 모음
+BOJ : 백준 온라인 저지, https://www.acmicpc.net/
+SW : SW Expert Academy, https://swexpertacademy.com/main/main.do
